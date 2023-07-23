@@ -32,7 +32,7 @@
 		</c:if>
     </p>
     <p>
-		<a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+		<a class="btn btn-primary btn-lg" href="#" role="button">Learn more from Jagan on 23-07-2023</a>
 	</p>
 	</div>
 </div>
